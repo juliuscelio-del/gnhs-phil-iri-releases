@@ -1,14 +1,14 @@
 {
-  "issuedAt": "2026-11-19T05:36:04.530Z",
+  "issuedAt": "2026-11-19T06:32:51.793Z",
   "machines": [
+    {
+      "id": "02a9b6412ba3a41258b41428",
+      "role": "coadmin"
+    },
     {
       "id": "349aae95b8fff03a7234418b",
       "role": "admin"
-    },
-    {
-      "id": "c85f0e0821fa61c400646b36",
-      "role": "coadmin"
     }
   ],
-  "sig": "lECoGlORCshG2h7A0bIsLZVrB6SAL70Edj84o6r597OPXT0Wr53MBqlcHS9HRVX0LSC1pQmPiQiXZKMw97WMAQ=="
+  "sig": "/J5YFVuQUMQzAB0YyJ/CmfCeQ9PsRakS/UIaWjC9rekw8yMdWYrQd+fBOC/AgF90JsCLwlT2OJqtglqTdxK0DQ=="
 }
